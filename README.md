@@ -1,5 +1,5 @@
 # Housing Case study
-> A US-based housing company named Surprise Housing has decided to enter into the Australian market. The company planning to use data analytics to purchase houses at prices lower than their actual prices by predicting the actual prices of the houses.
+A US-based housing company named Surprise Housing has decided to enter into the Australian market. The company planning to use data analytics to purchase houses at prices lower than their actual prices by predicting the actual prices of the houses.
 
 
 ## Table of Contents
@@ -27,9 +27,9 @@
 * Exploring data
 * Data preparation
 * Model building
-  > linear Regression
-  > Ridge Regression
-  > Lasso Regression
+  * linear Regression
+  * Ridge Regression
+  * Lasso Regression
 * Model evaluation
 * conclusion
 
