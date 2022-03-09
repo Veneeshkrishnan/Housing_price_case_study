@@ -30,7 +30,6 @@ A US-based housing company named Surprise Housing has decided to enter into the 
   * linear Regression
   * Ridge Regression
   * Lasso Regression
-* Model evaluation
 * conclusion
 
 
