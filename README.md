@@ -26,7 +26,7 @@ A US-based housing company named Surprise Housing has decided to enter into the 
 * Data understanding and cleaning
 * Exploring data
 * Data preparation
-* Model building
+* Model building and evaluation
   * linear Regression
   * Ridge Regression
   * Lasso Regression
